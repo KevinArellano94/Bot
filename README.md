@@ -1,2 +1,0 @@
-# Bot
-Created with CodeSandbox
